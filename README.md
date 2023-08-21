@@ -64,3 +64,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Google API URI
+
+https://console.cloud.google.com/apis/credentials/oauthclient/996461182723-i9i3pt6jj2jg0prb408qpp32fk371btl.apps.googleusercontent.com?project=genial-shuttle-364605
